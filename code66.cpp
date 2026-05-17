@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
     int n = 30 ;
-    double x = 5.1;
-    cout <<  n % x  <<endl;
+    double x = 5;
+    cout <<  ( n / x )  <<endl;
     return 0;
 }
